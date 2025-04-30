@@ -86,3 +86,6 @@ Este modelo puede ser base para desarrollos futuros más avanzados, como la segm
 ## 📬 Contacto
 
 ivan.romana88@gmail.com
+
+## Link para probar programa
+https://detector-de-tumores-cerebrales-hjndbet73ictppxembgzap.streamlit.app/
